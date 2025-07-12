@@ -31,7 +31,7 @@ Soy un desarrollador autodidacta y estudiante de ingeniería informática en Esp
 
 Estoy abierto a colaborar en proyectos que tengan impacto real, ya sea como desarrollador, consultor de procesos, integrador de APIs o simplemente para compartir ideas. Si crees que podemos crear algo juntos, no dudes en escribirme:
 
-📫 **ignacio.pindado[at]outlook.com**  
+📫 **[mailto:ignacio.pindado@outlook.com]**  
 💼 También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/ipindado)
 
 ### 🧪 Curiosidades
